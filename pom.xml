@@ -7,10 +7,6 @@
   <version>1.0</version>
   <name>snapchatApp</name>
   <url>http://maven.apache.org</url>
-<properites>
-  <maven.compiler.source>1.8</maven.compiler.source>
-  <maven.compiler.target>1.8</maven.compiler.target>
-</properties>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
